@@ -122,3 +122,28 @@ th {
     font-size: 14px;
     margin-top: 10px;
 }
+
+footer {
+   
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    position: absolute;
+    margin:auto;
+    margin-top: 700px;
+}
+
+footer p {
+    margin: 5px 0;
+}
+
+footer a {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    margin: 0 5px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
